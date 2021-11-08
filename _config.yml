@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "Programming_C"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이예원"
+name                     : "Yewon Lee"
 description              : "C언어 입문자를 위한 설명"
 url                      : "https://yewonni.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
