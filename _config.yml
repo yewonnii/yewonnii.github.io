@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Loveable Life"
+title                    : "Programming_C"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이예원"
-description              : "book review, people"
+description              : "C언어 입문자를 위한 설명"
 url                      : "https://yewonni.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yewonni/yewonni.github.io"  # GitHub username/repo-name e.g. 
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "이예원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "책과 사람으로 가득찬 삶"
+  bio              : "High school 2rd grader who loves books and people"
   location         : "대한민국, 용인"
   email            : "yeonelee0828@gmail.com'
   links:
