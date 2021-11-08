@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Programming_C"
+title                    : "Bio_techtech"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yewon Lee"
-description              : "C언어 입문자를 위한 설명"
+name                     : "이예원"
+description              : "흥미로운 생명공학 "
 url                      : "https://yewonni.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yewonni/yewonni.github.io"  # GitHub username/repo-name e.g. 
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "이예원"
   avatar           : 
-  bio              : "냥"
+  bio              : "배워서 남 주자"
   location         : "대한민국, 용인"
   email            : "yeonelee0828@gmail.com"
   links:
