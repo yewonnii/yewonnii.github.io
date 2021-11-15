@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "Biotech"
+title                    : "Life (is) Science 삶은 과학이다!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이예원"
